@@ -1,7 +1,7 @@
 [
   {
     "Name": "0.4.2b",
-    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "Description": "The earliest version of SCP: Secret Laboratory possible. This is the update before the 1.0 release and is as early as we can get because of Linux support being added.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/0.4.2b.png",
     "Version": "0.4.2b",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/0.4.2b.zip",
@@ -9,7 +9,7 @@
   },
   {
     "Name": "1.0.2",
-    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "Description": "The full SCP: Secret Laboratory release, temporarily removed SCP-079, changed door models and added a new map generator.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/1.0.2.png",
     "Version": "1.0.2",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/1.0.2.zip",
@@ -17,7 +17,7 @@
   },
   {
     "Name": "3.3.3",
-    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "Description": "Added in a new SCP (096) as well as an announcer for the Alpha Warhead (Female Announcer). Zombies (049-2) also had recieved a buff in attacks.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/3.3.3.png",
     "Version": "3.3.3",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/3.3.3.zip",
@@ -25,7 +25,7 @@
   },
   {
     "Name": "8.0.1 (Megapatch I)",
-    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "Description": "Part 1/2 of the SCP:SL Megapatch. Reintroduced SCP-079 with a complete rework of mechanics and added the USP for Class-D/Scientists.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/8.0.1.png",
     "Version": "8.0.1",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/8.0.1.zip",
@@ -33,7 +33,7 @@
   },
   {
     "Name": "9.1.1 (Megapatch II)",
-    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "Description": "The second half of the Megapatch. Introduced the locker system which increased the amount of loot that could be found around the facility, as well as adding in new SCP items such as 268, 019, 500 and 207. The medical treatment system also had a rework.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/9.1.1.png",
     "Version": "9.1.1",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/9.1.1.zip",
@@ -41,7 +41,7 @@
   },
   {
     "Name": "10.2.2 (Scopophobia)",
-    "Description": "Scopophobia focused on SCP-096, giving him a complete rework and new mechanics.",
+    "Description": "The SCP-096 rework, new model, new mechanics and sounds. Spawning tickets and stamina were also added into this version as well a few overhauls and general improvements.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/10.2.2.png",
     "Version": "10.2.2",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/10.2.2.zip",
@@ -49,7 +49,7 @@
   },
   {
     "Name": "11.2.1 (Parabellum)",
-    "Description": "Parabellum overhauled the gunplay and introduced SCP-173's new model and mechanics.",
+    "Description": "The '173' rework, similar to Scopohobia, 173 was given a unique new model and an entire rework of gameplay with it. Gunplay in SCP:SL was also improved to be more balanced, as well as adding additional weapons for the Chaos Insurgency instead of just logicers.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/11.2.1.png",
     "Version": "11.2.1",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/11.2.1.zip",
@@ -57,7 +57,7 @@
   },
   {
     "Name": "12.0.2 (Mimicry)",
-    "Description": "Mimicry introduced SCP-939's rework, new sub-classes, and various balance changes.",
+    "Description": "939's turn with the rework, gone are the double SCP-939, now only one will spawn in. A second HCZ/EZ checkpoint was also introduced, removing a large chokepoint for spawnwaves.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/12.0.2.png",
     "Version": "12.0.2",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/12.0.2.zip",
@@ -65,7 +65,7 @@
   },
   {
     "Name": "13.5.1 (Refracted Reality)",
-    "Description": "Refracted Reality brought visual updates, engine upgrades, and further polish to the game.",
+    "Description": "Refracted Reality brought visual updates, engine upgrades, new SCPs, rebalancing, new weapon, etc. The last version before the current v14 (Heavy Duty)",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/13.5.1.png",
     "Version": "13.5.1",
     "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/13.5.1.zip",
