@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "0.4.2b",
+    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/0.4.2b.png",
+    "Version": "0.4.2b",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/0.4.2b.zip",
+    "ExecutableName": "SCPSL.exe"
+  },
+  {
+    "Name": "1.0.2",
+    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/1.0.2.png",
+    "Version": "1.0.2",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/1.0.2.zip",
+    "ExecutableName": "SCPSL.exe"
+  },
+  {
+    "Name": "3.3.3",
+    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/3.3.3.png",
+    "Version": "3.3.3",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/3.3.3.zip",
+    "ExecutableName": "SCPSL.exe"
+  },
+  {
+    "Name": "8.0.1 (Megapatch I)",
+    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/8.0.1.png",
+    "Version": "8.0.1",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/8.0.1.zip",
+    "ExecutableName": "SCPSL.exe"
+  },
+  {
+    "Name": "9.1.1 (Megapatch II)",
+    "Description": "The Megapatch II update brought significant changes to the facility layout and introduced new SCPs.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/9.1.1.png",
+    "Version": "9.1.1",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/9.1.1.zip",
+    "ExecutableName": "SCPSL.exe"
+  },
+  {
+    "Name": "10.2.2 (Scopophobia)",
+    "Description": "Scopophobia focused on SCP-096, giving him a complete rework and new mechanics.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/10.2.2.png",
+    "Version": "10.2.2",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/10.2.2.zip",
+    "ExecutableName": "SCPSL.exe"
+  },
+  {
+    "Name": "11.2.1 (Parabellum)",
+    "Description": "Parabellum overhauled the gunplay and introduced SCP-173's new model and mechanics.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/11.2.1.png",
+    "Version": "11.2.1",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/11.2.1.zip",
+    "ExecutableName": "SCPSL.exe"
+  },
+  {
+    "Name": "12.0.2 (Mimicry)",
+    "Description": "Mimicry introduced SCP-939's rework, new sub-classes, and various balance changes.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/12.0.2.png",
+    "Version": "12.0.2",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/12.0.2.zip",
+    "ExecutableName": "SCPSL.exe"
+  },
+  {
+    "Name": "13.5.1 (Refracted Reality)",
+    "Description": "Refracted Reality brought visual updates, engine upgrades, and further polish to the game.",
+    "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/13.5.1.png",
+    "Version": "13.5.1",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/13.5.1.zip",
+    "ExecutableName": "SCPSL.exe"
+  }
+]
