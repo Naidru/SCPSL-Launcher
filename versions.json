@@ -32,11 +32,11 @@
     "ExecutableName": "SCPSL.exe"
   },
   {
-    "Name": "9.1.1 (Megapatch II)",
+    "Name": "9.1.3 (Megapatch II)",
     "Description": "The second half of the Megapatch. Introduced the locker system which increased the amount of loot that could be found around the facility, as well as adding in new SCP items such as 268, 019, 500 and 207. The medical treatment system also had a rework.",
     "BannerUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/banners/9.1.1.png",
-    "Version": "9.1.1",
-    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/9.1.1.zip",
+    "Version": "9.1.3",
+    "DownloadUrl": "https://corrugated.naidru.ca/cdn/scpsl_versions/9.1.3.zip",
     "ExecutableName": "SCPSL.exe"
   },
   {
